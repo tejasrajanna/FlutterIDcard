@@ -1,6 +1,7 @@
-# id
+# ID Card
 
-A new Flutter project.
+SImple ID Card with a few details.
+On click of action button semester gets updated by one
 
 ## Getting Started
 
